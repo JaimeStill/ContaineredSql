@@ -39,4 +39,4 @@ Password | P@$$Word1234
 Remember password | y
 Encrypt | Mandatory
 Trust server certificate | True
-Name (optional) DevSql
+Name (optional) | DevSql
